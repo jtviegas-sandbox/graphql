@@ -1,0 +1,20 @@
+{
+  "name": "exp02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -e js,json,graphql"
+  },
+  "keywords": [],
+  "author": "Joao Tiago Viegas <jtviegas.js@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.16.0",
+    "express": "^4.17.1",
+    "graphql": "^15.1.0",
+    "graphql-playground-middleware-express": "^1.7.18",
+    "nodemon": "^2.0.4"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "blueprint-20200722231128-authRole",
+            "UnauthRoleArn": "arn:aws:iam::041651352119:role/blueprint-20200722231128-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::041651352119:role/blueprint-20200722231128-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "blueprint-20200722231128-deployment",
+            "UnauthRoleName": "blueprint-20200722231128-unauthRole",
+            "StackName": "blueprint-20200722231128",
+            "StackId": "arn:aws:cloudformation:eu-west-1:041651352119:stack/blueprint-20200722231128/4aaf9ef0-cc68-11ea-8159-0a2c3f6a2a32"
+        }
+    }
+}
